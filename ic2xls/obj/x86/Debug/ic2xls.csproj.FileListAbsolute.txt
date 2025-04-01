@@ -1,0 +1,8 @@
+d:\userx\documents\visual studio 2010\Projects\ic2xls\ic2xls\bin\Debug\ic2xls.exe
+d:\userx\documents\visual studio 2010\Projects\ic2xls\ic2xls\bin\Debug\ic2xls.pdb
+d:\userx\documents\visual studio 2010\Projects\ic2xls\ic2xls\obj\x86\Debug\ic2xls.Form1.resources
+d:\userx\documents\visual studio 2010\Projects\ic2xls\ic2xls\obj\x86\Debug\ic2xls.Properties.Resources.resources
+d:\userx\documents\visual studio 2010\Projects\ic2xls\ic2xls\obj\x86\Debug\ic2xls.csproj.GenerateResource.Cache
+d:\userx\documents\visual studio 2010\Projects\ic2xls\ic2xls\obj\x86\Debug\ic2xls.exe
+d:\userx\documents\visual studio 2010\Projects\ic2xls\ic2xls\obj\x86\Debug\ic2xls.pdb
+D:\UserX\Documents\Visual Studio 2010\Projects\ic2xls\ic2xls\obj\x86\Debug\ic2xls.csprojResolveAssemblyReference.cache
